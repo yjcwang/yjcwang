@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm [你的名字] 👋
 
-<!--
-**yjcwang/yjcwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student @ TUM  
+🇯🇵 Exchange @ Osaka University  
+💻 Interested in AI / Fullstack / Visualization  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 📚 JP Reading Assistant
+- AI 日语阅读工具（你的主项目）
+- 技术：Next.js + FastAPI + LLM
+- 功能：
+  - 自动提取语法 & 单词
+  - 划词解释（word / sentence）
+  - PDF 导出
+
+👉 [GitHub Repo](链接)
+
+---
+
+### 🧠 其他项目
+- 项目1（1句话说明）
+- 项目2（1句话说明）
+
+---
+
+## 🛠 Tech Stack
+- Frontend: React / Next.js
+- Backend: FastAPI
+- AI: OpenAI / DeepSeek / Ollama
+
+---
+
+## 📫 Contact
+- Email:
+- GitHub:
