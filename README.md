@@ -31,7 +31,7 @@ Next.js · TypeScript · FastAPI · Pydantic · LLM APIs
 ---
 
 ### TOCwise (Chrome Extension)  
-👉 https://github.com/yjcwang/TOCwise :contentReference[oaicite:1]{index=1}
+👉 https://github.com/yjcwang/TOCwise
 
 Chrome extension for generating real-time structured outlines from long LLM conversations.
 
@@ -77,7 +77,7 @@ Python · TypeScript · JavaScript · C/C++ · Java
 FastAPI · Next.js · React · Pydantic · Git  
 
 **AI & Systems**  
-OpenAI · DeepSeek · Ollama · Gemini Nano  
+OpenAI · DeepSeek · Ollama · OpenAI · Gemini Nano  
 
 ---
 
