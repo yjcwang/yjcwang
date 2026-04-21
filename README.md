@@ -10,6 +10,7 @@
 
 ### AI-Powered Japanese Reading Workflow
 👉 https://github.com/yjcwang/ai-reading-workflow
+[Demo Video Link Here](https://youtu.be/NV0gn7CtJrc)
 
 Full-stack system for structured language learning workflow from real text using LLMs.
 
@@ -32,6 +33,7 @@ Next.js · TypeScript · FastAPI · Pydantic · LLM APIs
 
 ### TOCwise (Chrome Extension)  
 👉 https://github.com/yjcwang/TOCwise
+[Demo Video Link Here](https://youtu.be/NV0gn7CtJrc)
 
 Chrome extension for generating real-time structured outlines from long LLM conversations.
 
