@@ -2,7 +2,7 @@
 
 🎓 M.Sc. Informatics @ Technical University of Munich  
 🇯🇵 Exchange Student @ Osaka University  
-💻 Focus: AI Systems · Full-stack Engineering · Visualization  
+💻 Focus: AI-enabled Systems · Full-stack Engineering
 
 ---
 
@@ -11,12 +11,12 @@
 ### AI-Powered Japanese Reading Workflow
 👉 https://github.com/yjcwang/ai-reading-workflow
 
-Full-stack application for structured language learning from real text using LLMs.
+Full-stack system for structured language learning workflow from real text using LLMs.
 
 **What I built**
 - Extracts key vocabulary and grammar from Japanese text (JLPT-aware)
 - Supports word-level and sentence-level contextual explanation
-- Allows users to build and export personalized study lists (PDF)
+- Allows users to build list, export PDF and save persistent result
 - Provides AI-generated reading content to create a closed learning loop
 
 **Technical Highlights**
